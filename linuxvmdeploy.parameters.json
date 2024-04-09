@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "projectName": {
-            "value": "webapi"
+            "value": "webapikdk"
         },
         "location": {
             "value": "koreacentral"
@@ -12,7 +12,7 @@
             "value": "tony"
         },
         "adminPublicKey": {
-            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7no8qFp5/vJEDEuzfYGFfbFVB2+gbfDdkrtSt5qLNb/uV9pXiP9ry7D3bVYC3KrWvJ7Vppt6cCO56DNPE9oANwkeRPvGszqU9ci2xldbpp+a1iK+F+ZwnIJl7z70Fr0C5zu9ix7g2wpr/gD8i6AYC6ryCWPF1dJtYpZrQa5fvKCkgbMl+NOigAHN/Qb5N31mbkPj4DW1V1kKIDwxoMEkHb6isljAv3sUOyBjtjmkRaZoZVOyjcJnRKZCoEMqdSCuwBDsf/UxJqNEzTgAf70bYfwaT68cx9nEfDyQQsyNlxOmoVkK1Qn0YaJhfqRG4W/6fdrPLdAPmRIldCAzBHtvl steelflea@vmwin11dev01"
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC4YFPyLSuxChXzq58SN+paPdjxHiIlnoKS30E/YmLXzCMAa9hV0NS8xhqMLLTb6hgHemgSv453DT80CZSGq6uKQrjONi95Rlt1buhdyZ/zce58F8FQFemPThtWDOGIPvTWKO701Vg6n44YBrmT0HKD6XaP1T/vJVSc/fF6ABiWZU9LREwdNwKkxccbtVIWA7JxHapXssueGkupb72tOh14OBSUreqdHTk2hjbZtxo8XagYZbKCWKHh+pwSW5zQ59QXoFkvq7yWuH1cgatW9RFYX5CQTg7iuiA8xSV2PA/+uDK0bS/D+hMRknkP0MgCqit2qPiDcf8c6/RcssuWF3UN skillsupport@SYDFEB19"
         },
         "vmSize": {
             "value": "Standard_DS1_v2"
